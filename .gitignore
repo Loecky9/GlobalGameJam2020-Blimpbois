@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Backup
+ATX/Saved/Backup/*
+ATX/Saved/Logs/*
+ATX/Saved/Config/CrashReportClient/*
+ATX/Saved/Autosaves/*
